@@ -40,7 +40,7 @@
 
 После удаления PV, данные на локальной ноде останутся нетронутыми, так как Kubernetes не управляет содержимым локальных дисков при удалении PV. Удаление PV лишь удаляет запись в Kubernetes, но не влияет на фактические данные на диске.
 
-4. Манифесты доступны по ссылке: 
+4. Манифесты доступны по ссылке: https://github.com/vmmaltsev/kuber-homeworks-2.2/tree/main/1
 
 ------
 
@@ -59,4 +59,4 @@
 
 ![alt text](https://github.com/vmmaltsev/screenshot/blob/main/Screenshot_140.png)
 
-Манифесты доступны по ссылке: 
+Манифесты доступны по ссылке: https://github.com/vmmaltsev/kuber-homeworks-2.2/tree/main/2
